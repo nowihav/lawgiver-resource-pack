@@ -1,0 +1,39 @@
+*placeholders*
+{
+  "lawgiver.fire.fmj": {
+    "sounds": [{"name": "entity/generic/gunshot_fmj", "volume": 1.0, "pitch": 1.0}],
+    "subtitle": "lawgiver.fire.fmj"
+  },
+  "lawgiver.fire.ap": {
+    "sounds": [{"name": "entity/generic/gunshot_ap", "volume": 1.0, "pitch": 1.1}],
+    "subtitle": "lawgiver.fire.ap"
+  },
+  "lawgiver.fire.inc": {
+    "sounds": [{"name": "entity/generic/gunshot_inc", "volume": 1.0, "pitch": 0.95}],
+    "subtitle": "lawgiver.fire.inc"
+  },
+  "lawgiver.fire.he": {
+    "sounds": [{"name": "entity/generic/gunshot_he", "volume": 1.1, "pitch": 0.85}],
+    "subtitle": "lawgiver.fire.he"
+  },
+  "lawgiver.fire.hs": {
+    "sounds": [{"name": "entity/generic/gunshot_hs", "volume": 0.9, "pitch": 1.2}],
+    "subtitle": "lawgiver.fire.hs"
+  },
+  "lawgiver.fire.st": {
+    "sounds": [{"name": "entity/generic/gunshot_st", "volume": 0.8, "pitch": 1.0}],
+    "subtitle": "lawgiver.fire.st"
+  },
+  "lawgiver.fire.rapid": {
+    "sounds": [{"name": "entity/generic/gunshot_rapid", "volume": 0.7, "pitch": 1.0}],
+    "subtitle": "lawgiver.fire.rapid"
+  },
+  "lawgiver.reload": {
+    "sounds": [{"name": "entity/generic/reload", "volume": 1.0, "pitch": 1.0}],
+    "subtitle": "lawgiver.reload"
+  },
+  "lawgiver.mode_change": {
+    "sounds": [{"name": "entity/generic/mode_change", "volume": 0.8, "pitch": 1.0}],
+    "subtitle": "lawgiver.mode_change"
+  }
+}
